@@ -4,6 +4,14 @@
 
 Deberás implementar una galería de fotos, utilizando **solamente** HTML y CSS.
 
+## Mi solucion del desafio
+
+<img src="./fotos/demo.png" width = 150px>
+<img src="./fotos/demo1.png" width = 150px>
+
+
+ **Ver demo:** https://oriananohemi.github.io/DevOff-Desafio-1/
+
 ## Condiciones del desafío
 
 ⛔ No se puede utilizar JavaScript.
