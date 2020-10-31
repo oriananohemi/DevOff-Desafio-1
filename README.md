@@ -10,7 +10,7 @@ Deberás implementar una galería de fotos, utilizando **solamente** HTML y CSS.
 <img src="./fotos/demo1.png" width = 500px>
 
 
- [Demo del Proyecto](https://oriananohemi.github.io/DevOff-Desafio-1/)
+ [Demo del Proyecto](https://oriananohemi.github.io/devoff-desafio-1/)
 
 ## Condiciones del desafío
 
